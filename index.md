@@ -1,1 +1,1 @@
-[Clearscore](https://clearscore.app.link/vsEAWMUo6mb?%243p=a_globalwide_media&%24aaid={google_aid}&%24idfa={ios_ifa}&~click_id=HO__{offer_id}__{transaction_id}&~secondary_publisher={affiliate_id}_{aff_sub})
+[Spotiy URI Mode 2 QL](https://spotify.link/8uAFYDHC2nb$uri_redirect_mode=2)
