@@ -2,8 +2,8 @@
 
 
 
-<a href="https://open.spotify.com/episode/2WQ1nmUFWIQkhTkCzXaOfY?si=BbCuHWikRKieXpPOXInagg&go=1&sp_cid=c4094cce91ec09f2028b600b587cbc69&utm_source=spotify_web_player&utm_medium=mobile&fallback=getapp">GetApp</a>
+[GetApp](https://open.spotify.com/episode/2WQ1nmUFWIQkhTkCzXaOfY?si=BbCuHWikRKieXpPOXInagg&go=1&sp_cid=c4094cce91ec09f2028b600b587cbc69&utm_source=spotify_web_player&utm_medium=mobile&fallback=getapp)
 
 
 
-<a href="https://open.spotify.com/episode/2WQ1nmUFWIQkhTkCzXaOfY?si=BbCuHWikRKieXpPOXInagg&go=1&sp_cid=c4094cce91ec09f2028b600b587cbc69&utm_source=spotify_web_player&utm_medium=mobile">No GetApp</a>
+[No GetApp](https://open.spotify.com/episode/2WQ1nmUFWIQkhTkCzXaOfY?si=BbCuHWikRKieXpPOXInagg&go=1&sp_cid=c4094cce91ec09f2028b600b587cbc69&utm_source=spotify_web_player&utm_medium=mobile)
