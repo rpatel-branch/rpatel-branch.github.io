@@ -16,5 +16,7 @@
 
 [bitly no get app](https://bit.ly/3TZXqwG)
 
+[bitly noget app no go1](https://bit.ly/3S1rwgJ)
+
 [getappshort spotify.link](https://spotify.link/bhF6knEduGb)
 [no get app short spotify.link](https://spotify.link/nZtk5nJduGb)
