@@ -14,7 +14,7 @@
 
 [bitly Spotify.app.link redirect test](https://bit.ly/3vHn6Eh)
 
-[bit.ly no get app](https://bit.ly/3TZXqwG)
+[bitly no get app](https://bit.ly/3TZXqwG)
 
 [getappshort spotify.link](https://spotify.link/bhF6knEduGb)
 [no get app short spotify.link](https://spotify.link/nZtk5nJduGb)
