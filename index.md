@@ -22,3 +22,4 @@
 [getappshort spotify.link](https://spotify.link/bhF6knEduGb)
 [no get app short spotify.link](https://spotify.link/nZtk5nJduGb)
 
+[JET Short Link](justeat.test-app.link)
