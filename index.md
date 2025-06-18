@@ -23,3 +23,7 @@
 [no get app short spotify.link](https://spotify.link/nZtk5nJduGb)
 
 [JET Short Link](justeat.test-app.link)
+
+
+
+[cold open spotify issue](https://spotify.link/9DsMMpo7eUb)
