@@ -27,3 +27,4 @@
 
 
 [cold open spotify issue](https://spotify.link/9DsMMpo7eUb)
+[deeplink path issue](https://spotify.app.link/$android_deeplink_path=upsell:premium_in_app_destination)
